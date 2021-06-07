@@ -1,0 +1,24 @@
+.bcg_header{
+    height: 20vh;
+    width : 207.9vh;
+    background-color: #00998a;
+}    
+.bcg_body{
+    height:80vh;
+    width : 207.9vh;
+    background-color: #d9dad3;
+}
+
+.chatcontainer{
+    position:fixed;
+    top:0%;
+    bottom:0%;
+    right:0px;
+    left:0px;
+    margin: auto;
+    height:90%;
+    width:75%;
+    background-color: white;
+    box-shadow: -1px -1px 5px rgb(138, 136, 136);
+    border-radius: 2px;
+}
